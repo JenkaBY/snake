@@ -1,0 +1,17 @@
+.cell {
+    display: table-cell;
+    margin: 0px;
+    padding: 0px;
+    font-size: x-small;
+}
+
+.row {
+    margin: 0px;
+    padding: 0px;
+}
+
+.border {
+    border: 2px solid black;
+    margin: 0;
+    padding: 0;
+}
